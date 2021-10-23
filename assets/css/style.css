@@ -576,3 +576,15 @@ a.icon-up-bg:hover {color: #212121;}
     color: #fff;
     text-align: center;
 }
+
+#contact .container .main{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#contact .container .main .box1{
+    width:400px;
+    padding: 35px;
+}
